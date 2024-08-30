@@ -1,0 +1,1 @@
+Screeno is a fictional video platform designed to help creators go live and earn income. This project is a simple HTML and CSS exercise to practice and reinforce fundamental web development skills. The focus is on building a responsive, clean, and accessible website without using JavaScript or any frameworks.
