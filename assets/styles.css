@@ -86,6 +86,7 @@ nav {
   flex-direction: column;
   gap: 2rem;
   max-width: 50%;
+  justify-content: center;
 }
 
 .hero-header {
